@@ -14,6 +14,10 @@
   ],
   "author": "Denis Stadniczuk",
   "license": "ISC",
+  "repository" : { 
+    "type" : "git",
+    "url" : "https://github.com/DenisStad/xerxes"
+  },
   "dependencies": {
     "callsite": "^1.0.0"
   }

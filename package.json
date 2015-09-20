@@ -1,0 +1,20 @@
+{
+  "name": "xerxes",
+  "version": "0.0.9",
+  "description": "Web framework that focuses on reusability of components",
+  "main": "xerxes.js",
+  "files": [ "xerxes.js" ],
+  "scripts": {
+    "test": "node test/app/app"
+  },
+  "keywords": [
+    "web",
+    "framework",
+    "api"
+  ],
+  "author": "Denis Stadniczuk",
+  "license": "ISC",
+  "dependencies": {
+    "callsite": "^1.0.0"
+  }
+}
